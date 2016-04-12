@@ -1,0 +1,45 @@
+
+#signonForm {
+	float: left;
+	padding-left: 300px;
+	padding-top: 250px;
+}
+
+#username {
+	align-self: center;
+	font-weight: bolder;
+}
+
+div {
+	width: 300px;
+	padding: 25px;
+	border: 25px;
+	margin: 25px;
+}
+
+#password {
+	align-self: center;
+	font-weight: bolder;
+}
+
+.spacing {
+
+}
+
+#uName{
+	font-size: x-large;
+}
+
+#usernameField {
+	height: 50px;
+	width: 250px;
+}
+
+#passwordField {
+	height: 50px;
+	width: 250px
+}
+
+#pWord {
+	font-size: x-large;
+}
